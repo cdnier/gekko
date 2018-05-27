@@ -13,7 +13,7 @@ const CONFIG = {
   ui: {
     ssl: false,
     host: 'sarbi333.herokuapp.com',
-    port: 3000,
+    port: 80,
     path: '/'
   },
   adapter: 'sqlite'
