@@ -12,7 +12,7 @@ const CONFIG = {
   },
   ui: {
     ssl: false,
-    host: 'localhost',
+    host: 'https://sarbi333.herokuapp.com/',
     port: 3000,
     path: '/'
   },
